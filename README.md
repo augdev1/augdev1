@@ -17,9 +17,9 @@ Evoluir para um nível profissional em Engenharia de Dados, construindo pipeline
 
 ⚡ Observação :
 
-Este projeto foi construído recentemente como parte do meu processo de aprendizado intensivo — o foco está em prática real, não apenas teoria.
+Este projeto (https://github.com/augdev1/f1-etl-postgres-airflow.git) foi construído recentemente como parte do meu processo de aprendizado intensivo — o foco está em prática real, não apenas teoria.
 
 📫 Contato :
-Email: augustosousa1798@gmail.com
+Email: augustosousa1798@gmail.com LinkedIn: https://www.linkedin.com/in/augusto-sousa-830719284/ 
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/7c4792e2-d3f4-452f-a7fe-f0ab7b6f77a7" width="120"/>  <img src="https://github.com/user-attachments/assets/b0aecca3-8381-477f-b1d2-2da59d97418a" width="120"/> <img src="https://github.com/user-attachments/assets/4c3f0a15-f317-447a-8d20-fc4725a8709b" width="120"/> <img src="https://github.com/user-attachments/assets/4998a8b9-7532-4fa4-bdde-9009d5ba1cc2" width="120"/> </p>
