@@ -9,8 +9,6 @@ Atualmente, estou focado em evoluir minhas habilidades em Engenharia de Dados, c
 
 Estou iniciando minha jornada em Engenharia de Dados, com foco em construir projetos reais e entender profundamente como sistemas de dados funcionam na prática.
 
-Em pouco tempo de estudo já desenvolvi um pipeline completo de dados de Fórmula 1, cobrindo desde a extração de dados de APIs reais até a orquestração e pronto para visualização — sempre priorizando boas práticas desde o início.
-
 🎯 Objetivo :
 
 Evoluir para um nível profissional em Engenharia de Dados, construindo pipelines cada vez mais robustos, automatizados e escaláveis.
