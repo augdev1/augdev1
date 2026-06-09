@@ -1,17 +1,7 @@
 # SOBRE MIM
-Olá! Sou Augusto Sousa, estudante de Análise e Desenvolvimento de Sistemas na Fametro, com foco prático em Engenharia de Dados.
-
-Desenvolvo pipelines de dados end-to-end, desde a ingestão via APIs até a orquestração e visualização. Trabalho com Python, pandas, PostgreSQL, SQLAlchemy, Apache Airflow, Docker e Metabase, aplicando conceitos de ETL, modelagem relacional e processamento de dados reais.
-
-Adquirindo experiência prática com construção de pipelines modulares e idempotentes, integração com APIs e organização de ambientes com Docker. Busco sempre entender profundamente cada etapa do processo, priorizando qualidade, clareza e evolução contínua.
-
-Atualmente, estou focado em evoluir minhas habilidades em Engenharia de Dados, construindo projetos cada vez mais robustos e alinhados com práticas de mercado.
-
-Estou iniciando minha jornada em Engenharia de Dados, com foco em construir projetos reais e entender profundamente como sistemas de dados funcionam na prática.
-
-🎯 Objetivo :
-
-Evoluir para um nível profissional em Engenharia de Dados, construindo pipelines cada vez mais robustos, automatizados e escaláveis.
+Olá! Sou Augusto Sousa, Estudante de Análise e Desenvolvimento de Sistemas (2º período) com foco prático em engenharia de dados 
+e desenvolvimento de software. Experiência comprovada em projetos reais com Python, pipelines ETL, APIs 
+REST, containers Docker e integração de soluções com IA Generativa (LLMs, LangChain).
 
 ⚡ Observação :
 
