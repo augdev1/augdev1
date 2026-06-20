@@ -1,5 +1,5 @@
 # SOBRE MIM
-Olá! Sou Augusto Sousa, Estudante de Análise e Desenvolvimento de Sistemas (2º período) com foco prático em Engenharia de Dados 
+Olá! Sou Augusto Sousa, Estudante de Análise e Desenvolvimento de Sistemas (3º período) com foco prático em Engenharia de Dados 
 e Desenvolvimento de Software. Experiência comprovada em projetos reais com Python, pipelines ETL, APIs 
 REST, containers Docker e integração de soluções com IA Generativa (LLMs, LangChain).
 
