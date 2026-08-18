@@ -1,7 +1,7 @@
 # SOBRE MIM
 Olá! Sou Augusto Sousa, Desenvolvedor FullStack, com foco prático em Engenharia de Dados 
 e Desenvolvimento de Software. Experiência comprovada em projetos reais com Python, pipelines ETL, APIs 
-REST, GCP(Biguery), containers Docker e integração de soluções com IA Generativa (LLMs, LangChain).
+REST, Google Cloud Platform GCP (BigQuery), containers Docker e integração de soluções com IA Generativa (LLMs, LangChain).
 
 ⚡ Observação :
 
