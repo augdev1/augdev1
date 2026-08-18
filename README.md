@@ -1,11 +1,11 @@
 # SOBRE MIM
-Olá! Sou Augusto Sousa, Estudante de Análise e Desenvolvimento de Sistemas (3º período) com foco prático em Engenharia de Dados 
+Olá! Sou Augusto Sousa, Desenvolvedor FullStack,com foco prático em Engenharia de Dados 
 e Desenvolvimento de Software. Experiência comprovada em projetos reais com Python, pipelines ETL, APIs 
-REST, containers Docker e integração de soluções com IA Generativa (LLMs, LangChain).
+REST, GCP(Biguery), containers Docker e integração de soluções com IA Generativa (LLMs, LangChain).
 
 ⚡ Observação :
 
-Este projeto (https://github.com/augdev1/business_intelligence_data) foi construído recentemente como parte do meu processo de aprendizado intensivo — o foco está em prática real, não apenas teoria.
+Projeto: (https://github.com/augdev1/business_intelligence_data)
 
 📫 Contato :
 Email: augustosousa1798@gmail.com LinkedIn: https://www.linkedin.com/in/augusto-sousa-830719284/ 
